@@ -1,3 +1,4 @@
+https://weather-app-createdbykanak.vercel.app/
 # 🌤️ Weather App — Vite + React
 
 A clean, minimal weather app that fetches live data from **OpenWeatherMap**.
