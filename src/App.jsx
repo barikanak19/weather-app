@@ -8,8 +8,8 @@ import { getWeatherIcon } from './weatherIcons';
    → Replace YOUR_API_KEY below with your own key from
      https://openweathermap.org/api  (no credit card needed)
    ───────────────────────────────────────────────────────────── */
-const API_KEY = '7f47a29cbee74caeb0e174715260302';           // ← paste here
-const BASE   = 'https://www.weatherapi.com/my/';
+const API_KEY = 'f91e2e671c7a0b3ae29ef012cb38a1eb';           // ← paste here
+const BASE   = 'https://openweathermap.org/';
 
 export default function App() {
   /* ── state ── */
